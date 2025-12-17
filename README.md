@@ -1,6 +1,6 @@
 # FocusFlow-
 
-# 🌸 My First App Design — FocusFlow!
+# 🌸 My Second App Design — FocusFlow!
 
 Hey! I'm Sakshi 👋  
 This is an app design I created using Figma.  
